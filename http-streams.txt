@@ -1,0 +1,107 @@
+Lea's WebServer Java 1.8 started....
+
+In working directory: C:\Users\nsane\Documents\Spring '19\CSC_435 Distributed Computing\MyWebServer
+
+Lea's WebServer listening at port 2540.....
+
+
+Request : GET / HTTP/1.1
+Response : GET / HTTP/1.1 200 OK
+          .\.idea.idea
+Response : GET / HTTP/1.1 200 OK
+          \addnums.htmladdnums.html
+Response : GET / HTTP/1.1 200 OK
+          \cat.htmlcat.html
+Response : GET / HTTP/1.1 200 OK
+          .\cgicgi
+Response : GET / HTTP/1.1 200 OK
+          \checklist-mywebserver.htmlchecklist-mywebserver.html
+Response : GET / HTTP/1.1 200 OK
+          \dog.txtdog.txt
+Response : GET / HTTP/1.1 200 OK
+          \http-streams.txthttp-streams.txt
+Response : GET / HTTP/1.1 200 OK
+          \MyWebServer.imlMyWebServer.iml
+Response : GET / HTTP/1.1 200 OK
+          .\outout
+Response : GET / HTTP/1.1 200 OK
+          \serverlogs.txtserverlogs.txt
+Response : GET / HTTP/1.1 200 OK
+          .\srcsrc
+Response : GET / HTTP/1.1 200 OK
+          .\sub-asub-a
+
+Request : GET /cat.html HTTP/1.1
+Response : GET /cat.html HTTP/1.1 200 OK
+
+Request : GET /http-streams.txt HTTP/1.1
+Response : GET /http-streams.txt HTTP/1.1 200 OK
+
+Request : GET /out HTTP/1.1
+Response : GET /out HTTP/1.1 200 OK
+
+Request : GET / HTTP/1.1
+Response : GET / HTTP/1.1 200 OK
+          .\.idea.idea
+Response : GET / HTTP/1.1 200 OK
+          \addnums.htmladdnums.html
+Response : GET / HTTP/1.1 200 OK
+          \cat.htmlcat.html
+Response : GET / HTTP/1.1 200 OK
+          .\cgicgi
+Response : GET / HTTP/1.1 200 OK
+          \checklist-mywebserver.htmlchecklist-mywebserver.html
+Response : GET / HTTP/1.1 200 OK
+          \dog.txtdog.txt
+Response : GET / HTTP/1.1 200 OK
+          \http-streams.txthttp-streams.txt
+Response : GET / HTTP/1.1 200 OK
+          \MyWebServer.imlMyWebServer.iml
+Response : GET / HTTP/1.1 200 OK
+          .\outout
+Response : GET / HTTP/1.1 200 OK
+          \serverlogs.txtserverlogs.txt
+Response : GET / HTTP/1.1 200 OK
+          .\srcsrc
+Response : GET / HTTP/1.1 200 OK
+          .\sub-asub-a
+
+Request : GET /src HTTP/1.1
+Response : GET /src HTTP/1.1 200 OK
+
+Request : GET /src/MyWebServer.java HTTP/1.1
+Response : GET /src/MyWebServer.java HTTP/1.1 200 OK
+
+Request : GET / HTTP/1.1 
+Response : GET / HTTP/1.1 200 OK
+          .\.idea.idea
+Response : GET / HTTP/1.1 200 OK
+          \addnums.htmladdnums.html
+Response : GET / HTTP/1.1 200 OK
+          \cat.htmlcat.html
+Response : GET / HTTP/1.1 200 OK
+          .\cgicgi
+Response : GET / HTTP/1.1 200 OK
+          \checklist-mywebserver.htmlchecklist-mywebserver.html
+Response : GET / HTTP/1.1 200 OK
+          \dog.txtdog.txt
+Response : GET / HTTP/1.1 200 OK
+          \http-streams.txthttp-streams.txt
+Response : GET / HTTP/1.1 200 OK
+          \MyWebServer.imlMyWebServer.iml
+Response : GET / HTTP/1.1 200 OK
+          .\outout
+Response : GET / HTTP/1.1 200 OK
+          \serverlogs.txtserverlogs.txt
+Response : GET / HTTP/1.1 200 OK
+          .\srcsrc
+Response : GET / HTTP/1.1 200 OK
+          .\sub-asub-a
+
+Request : GET /addnums.html HTTP/1.1
+Response : GET /addnums.html HTTP/1.1 200 OK
+
+Request : GET /addnums.fake-cgi?person=Lea&num1=15&num2=5 HTTP/1.1
+Response : GET /addnums.fake-cgi?person=Lea&num1=15&num2=5 HTTP/1.1 200 OK
+
+
